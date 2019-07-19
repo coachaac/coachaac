@@ -19,8 +19,9 @@ email: equipe@coachaac.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vous êtes parent d’un jeune en conduite accompagnée (AAC) ? Coach AAC est fait pour vous !
   Coach AAC facilite le suivi et la progression de votre jeune en conduite accompagnée.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/coachaac" # the subpath of your site, e.g. /blog
+url: "https://coachaac.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: jekyllrb
 github_username:  jekyll
 
