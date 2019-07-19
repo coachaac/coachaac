@@ -9,6 +9,7 @@ title:  "Coach AAC - la documentation !"
 Pages les plus demandées:
 
 * [Qu'est ce que Coach AAC?, Qu est ce que Coach AAC?]
+* [Réglage Huawei et Honor, Reglage huawei honor]
 
 
 [contactez nous](mailto:equipe@coachaac.com) si vous avez la moindre question!

@@ -1,4 +1,4 @@
-$navbarBackground: #0088cc;
+$navbarBackground: #56D761;
 $sepColor: #f5f5f5;
 
 body {
@@ -198,7 +198,14 @@ footer {
     text-transform: uppercase;
   }
   .our-brand {
+    height: 36px;
     font-weight: 400;
+    img {
+      height: 36px;
+      display: inline-block;
+      padding-bottom: 6px;
+      padding-top: 4px;
+    }
   }
   .muted {
     padding-left: 0px;
