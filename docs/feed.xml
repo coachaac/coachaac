@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://coachaac.github.io/coachaac/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coachaac.github.io/coachaac/" rel="alternate" type="text/html" /><updated>2019-07-22T10:16:01+02:00</updated><id>https://coachaac.github.io/coachaac/feed.xml</id><title type="html">Documentation Coach AAC</title><subtitle>Vous êtes parent d’un jeune en conduite accompagnée (AAC) ? Coach AAC est fait pour vous ! Coach AAC facilite le suivi et la progression de votre jeune en conduite accompagnée.</subtitle><entry><title type="html">FAQ des fonctionnalités</title><link href="https://coachaac.github.io/coachaac/2000/01/03/faq-fonctionnalites.html" rel="alternate" type="text/html" title="FAQ des fonctionnalités" /><published>2000-01-03T00:00:00+01:00</published><updated>2019-07-22T10:15:06+02:00</updated><id>https://coachaac.github.io/coachaac/2000/01/03/faq-fonctionnalites</id><content type="html" xml:base="https://coachaac.github.io/coachaac/2000/01/03/faq-fonctionnalites.html">&lt;p&gt;On nous demande souvent “comment faire pour ….”, vous trouverez sur cette page les réponses aux questions les plus courantes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://coachaac.github.io/coachaac/feed.xml" rel="self" type="application/atom+xml" /><link href="https://coachaac.github.io/coachaac/" rel="alternate" type="text/html" /><updated>2019-08-22T08:32:24+02:00</updated><id>https://coachaac.github.io/coachaac/feed.xml</id><title type="html">Documentation Coach AAC</title><subtitle>Vous êtes parent d’un jeune en conduite accompagnée (AAC) ? Coach AAC est fait pour vous ! Coach AAC facilite le suivi et la progression de votre jeune en conduite accompagnée.</subtitle><entry><title type="html">Réglage iOS</title><link href="https://coachaac.github.io/coachaac/2000/01/04/reglage-ios.html" rel="alternate" type="text/html" title="Réglage iOS" /><published>2000-01-04T00:00:00+01:00</published><updated>2019-07-26T14:30:00+02:00</updated><id>https://coachaac.github.io/coachaac/2000/01/04/reglage-ios</id><content type="html" xml:base="https://coachaac.github.io/coachaac/2000/01/04/reglage-ios.html">&lt;p&gt;&lt;a href=&quot;https://www.coachaac.com&quot;&gt;CoachAAC&lt;/a&gt; est une application qui fonctionne sur une majorité de téléphone iOS et Android.&lt;/p&gt;
+
+&lt;p&gt;Chaque constructeur de téléphone apporte sa touche autant sur le matériel que sur le logiciel.&lt;/p&gt;
+
+&lt;p&gt;sur iOS l’application doit avoir le paramétrage suivant :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/coachaac/assets/parametrageiOS-d4c5c0187dc26ff8dbaf46df8f48fcf2b43038c275836ff55cf26146309dc887.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Il convient aussi de mettre iOS à jour.&lt;/p&gt;
+
+&lt;p&gt;En effet, pour des problèmes de GPS, Apple demande à ses utilisateurs de mettre à jour leur système pour éviter une perte de service de localisation.
+En fonction de la version de votre OS, il faut passer, si ce n’est déjà fait, à l’OS suivant:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iOS 9.3.6: iPhone 4s&lt;/li&gt;
+  &lt;li&gt;iOS 10.3.4: iPhone 5&lt;/li&gt;
+  &lt;li&gt;iOS 12.4: pour les iPhones plus récents&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">CoachAAC est une application qui fonctionne sur une majorité de téléphone iOS et Android.</summary></entry><entry><title type="html">FAQ des fonctionnalités</title><link href="https://coachaac.github.io/coachaac/2000/01/03/faq-fonctionnalites.html" rel="alternate" type="text/html" title="FAQ des fonctionnalités" /><published>2000-01-03T00:00:00+01:00</published><updated>2019-07-22T10:15:06+02:00</updated><id>https://coachaac.github.io/coachaac/2000/01/03/faq-fonctionnalites</id><content type="html" xml:base="https://coachaac.github.io/coachaac/2000/01/03/faq-fonctionnalites.html">&lt;p&gt;On nous demande souvent “comment faire pour ….”, vous trouverez sur cette page les réponses aux questions les plus courantes.&lt;/p&gt;
 
 &lt;h1 id=&quot;mon-compte&quot;&gt;Mon compte&lt;/h1&gt;
 
