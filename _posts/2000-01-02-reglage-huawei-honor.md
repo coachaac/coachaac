@@ -25,8 +25,9 @@ Cette surcouche  doit être paramétré pour que Coach AAC fonctionne convenable
     3. allez dans -"Données de localisation"_
     4. _"Accès informations localisation"_ doit être coché
     5. dans _"Paramètres avancés"_, _"Recherche Wi-Fi"_ doit être coché.
-
-
+<br>
+<br>
+<br>
 * La **gestion de la batterie** ne doit pas supprimer l'application lorsque le téléphone est en veille ou que l'application Coach AAC est en arrière plan:
 
 1. Allez dans _“Paramètres”_ puis
