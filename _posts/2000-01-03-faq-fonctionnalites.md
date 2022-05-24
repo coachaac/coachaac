@@ -28,12 +28,16 @@ On nous demande souvent "comment faire pour ....", vous trouverez sur cette page
 
     Il faudra ensuite choisir quel est l'enfant qui conduit avant de démarrer un trajet.
 
+    Pour ajouter une apprenti, ouvrez l'application, cliquez en haut à gauche sur l'avatar ou le nom de l'apprenti, vous arriverez sur la page "Mes réglages". Cliquez ensuite sur le bouton + en haut à droite de la zone "Mes apprentis" pour ajouter un nouvel apprenti.
+
+    Pour changer d'apprenti, sur la page d'accueil, cliquez en haut a droite sur l'avatar du prochain apprenti.
+
 
 # Mes trajets
 
 1. **Mon dernier trajet n'apparait pas ! au secours !**
 
-    Sur l'application Coach AAC, nous ne perdons quasiment aucune donnée. Mais parfois elles ne s'affichent pas tout de suite, ou restent bloquées sur le téléphone.
+    Sur l'application Coach AAC, nous ne perdons aucune donnée mais parfois elles ne s'affichent pas tout de suite, ou restent bloquées sur le téléphone.
 
     Si vous avez un réseaux sur votre téléphone et que coach aac est démarré depuis plusieurs minutes, vous devriez voir tous vos trajets. Si ce n'est pas le cas :
 
@@ -53,4 +57,4 @@ On nous demande souvent "comment faire pour ....", vous trouverez sur cette page
 
     Dans l'application, cliquer sur l'icone et le nom en haut a gauche de l'écran, puis sur "signaler un problème", juste en dessous du bouton (Déconnexion).
 
-    Décrivez votre problème et nous recevrons votre rapport. Celui-ci nous permettra de
+    Décrivez votre problème et nous recevrons votre rapport. Celui-ci nous permettra de vous répondre plus facilement.

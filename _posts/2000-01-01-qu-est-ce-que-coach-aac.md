@@ -7,7 +7,7 @@ index: 0
  Vous êtes parent d’un jeune en conduite accompagnée (AAC) ? [CoachAAC](https://www.coachaac.com) est fait pour vous !
 [CoachAAC](https://www.coachaac.com) facilite le suivi et la progression de votre jeune en conduite accompagnée.
 
-★★★ Nouveau ★★★ L’application [CoachAAC](https://www.coachaac.com) est déjà recommandée par plus de 450 auto-écoles !
+★★★ Nouveau ★★★ L’application [CoachAAC](https://www.coachaac.com) est déjà recommandée par plus de 600 auto-écoles !
 
 **Trois grandes fonctionnalités :**
 
