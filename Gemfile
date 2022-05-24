@@ -8,7 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+gem "kramdown-parser-gfm", "~> 1.1.0"
+gem "jekyll", "~> 3.9.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
@@ -16,7 +17,7 @@ gem "jekyll-theme-tactile", "~> 0.1.1"
 
 gem "sprockets", "~> 3.7"
 
-gem "nokogiri", "~> 1.10.8"
+gem "nokogiri", "~> 1.13.6"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
