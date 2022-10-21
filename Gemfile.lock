@@ -78,7 +78,7 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.8.0)
     minitest (5.15.0)
-    nokogiri (1.13.6)
+    nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -120,7 +120,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-theme-tactile (~> 0.1.1)
   kramdown-parser-gfm (~> 1.1.0)
-  nokogiri (~> 1.13.6)
+  nokogiri (~> 1.13.9)
   sprockets (~> 3.7)
   tzinfo (~> 1.2)
   tzinfo-data
