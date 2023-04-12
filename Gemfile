@@ -17,7 +17,7 @@ gem "jekyll-theme-tactile", "~> 0.1.1"
 
 gem "sprockets", "~> 3.7"
 
-gem "nokogiri", "~> 1.13.6"
+gem "nokogiri", "~> 1.14.3"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
